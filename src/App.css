@@ -1,0 +1,28 @@
+*{
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+    margin: 0;
+    padding: 0;
+  
+  }
+  
+  .head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: larger;
+    color: darkgreen;
+    background-color: burlywood ;
+    display: flex;
+    justify-content: center;
+    height: 10vh;
+  }
+
+  .heading{
+    background:none;
+  }
+  .bodyy{
+    display: flex;
+    justify-content: center;
+    margin-top: 15vh;
+   
+  }
